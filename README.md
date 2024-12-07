@@ -32,11 +32,11 @@ Strengths:
 &nbsp;&nbsp;🚧 Exploring frontend and backend development basics  
     
 🎯 Goals for 2024  
-&nbsp;&nbsp;Learn and implement web development with HTML, CSS, and JavaScript  
-&nbsp;&nbsp;Deepen understanding of algorithms and data structures  
-&nbsp;&nbsp;Build and deploy a personal project for my portfolio  
+&nbsp;&nbsp;&nbsp;Learn and implement web development with HTML, CSS, and JavaScript  
+&nbsp;&nbsp;&nbsp;Deepen understanding of algorithms and data structures  
+&nbsp;&nbsp;&nbsp;Build and deploy a personal project for my portfolio  
     
 💡 Fun Facts  
-&nbsp;&nbsp;I learned Java programming from scratch through online tutorials.  
-&nbsp;&nbsp;I have a knack for simplifying complex problems and finding efficient solutions.  
+&nbsp;&nbsp;&nbsp;I learned Java programming from scratch through online tutorials.  
+&nbsp;&nbsp;&nbsp;I have a knack for simplifying complex problems and finding efficient solutions.  
 ##
